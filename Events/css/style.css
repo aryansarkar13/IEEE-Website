@@ -830,6 +830,10 @@ filter: blur(10px);
 
 
 @media (max-width: 991px) {
+	
+  #prev .pe .details p {
+  font-size: 5vw;
+  }
 
   #intro .intro-container {
     top: 70px;
@@ -842,6 +846,7 @@ filter: blur(10px);
   #intro p {
     font-size: 16px;
   }
+	
 }
 
 @media (max-width: 768px) {
