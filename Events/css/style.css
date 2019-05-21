@@ -538,7 +538,7 @@ filter: blur(10px);
 
 
 
-@media (max-width:1200px) {
+@media (max-width:1024px) {
 
   .head .logo{
       font-family: 'Righteous';
@@ -832,7 +832,7 @@ filter: blur(10px);
 @media (max-width: 991px) {
 	
   #prev .pe .details p {
-  font-size: 2vw;
+  font-size: 3vw;
   }
 
   #intro .intro-container {
