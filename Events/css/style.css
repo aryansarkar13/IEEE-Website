@@ -832,7 +832,7 @@ filter: blur(10px);
 @media (max-width: 991px) {
 	
   #prev .pe .details p {
-  font-size: 5vw;
+  font-size: 2vw;
   }
 
   #intro .intro-container {
