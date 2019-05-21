@@ -830,6 +830,16 @@ filter: blur(10px);
 
 
 @media (max-width: 991px) {
+    .head .logo .ltext{
+    font-family: 'Righteous';
+    color: #fff;
+    height: 20px;
+    line-height: 50px;
+    font-size: 30px;
+    float: left;
+    font-weight: bold;
+    display: none;
+}
 	
   #prev .pe .details p {
   font-size: 3vw;
