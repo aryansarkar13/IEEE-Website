@@ -449,7 +449,7 @@ filter: blur(10px);
 #ws .ws-img {
   display:flex;
   justify-content: center;
-  overflow: hidden;
+  overflow: scroll;
   padding: 20px;
   margin-bottom: 15px;
   width: auto;
@@ -832,7 +832,7 @@ filter: blur(10px);
 @media (max-width: 991px) {
 	
   #prev .pe .details p {
-  font-size: 3vw;
+  font-size: 20px;
   }
 
   #intro .intro-container {
